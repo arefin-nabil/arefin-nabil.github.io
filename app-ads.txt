@@ -1,6 +1,6 @@
 google.com, pub-6222678537187159, DIRECT, f08c47fec0942fa0
 
-
+google.com, pub-6222678537187159, DIRECT, f08c47fec0942fa0
 
 
 adagio.io, 1522, RESELLER
